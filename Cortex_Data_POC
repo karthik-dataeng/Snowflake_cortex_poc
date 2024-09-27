@@ -1,0 +1,3 @@
+What is the File Size ? --> use size_limit in copycommand if we are using the S3.
+Cost of execution towards the file Size ?
+Error handling, Rejected Files Handling ? --> use validate(), result_scan(), last_query_id() sf functions 
